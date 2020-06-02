@@ -1,0 +1,17 @@
+C:\Users\Jonat\OneDrive\Documentos\GitHub\ForcaMiddleware\ForcaMiddleware\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+C:\Users\Jonat\OneDrive\Documentos\GitHub\ForcaMiddleware\ForcaMiddleware\Logic\bin\Debug\netstandard2.0\Logic.dll
+C:\Users\Jonat\OneDrive\Documentos\GitHub\ForcaMiddleware\ForcaMiddleware\Logic\bin\Debug\netstandard2.0\Logic.pdb
+C:\Users\Jonat\OneDrive\Documentos\GitHub\ForcaMiddleware\ForcaMiddleware\Logic\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\OneDrive\Documentos\GitHub\ForcaMiddleware\ForcaMiddleware\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Jonat\OneDrive\Documentos\GitHub\ForcaMiddleware\ForcaMiddleware\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\Users\Jonat\OneDrive\Documentos\GitHub\ForcaMiddleware\ForcaMiddleware\Logic\obj\Debug\netstandard2.0\Logic.dll
+C:\Users\Jonat\OneDrive\Documentos\GitHub\ForcaMiddleware\ForcaMiddleware\Logic\obj\Debug\netstandard2.0\Logic.pdb
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\Logic\bin\Debug\netstandard2.0\Logic.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\Logic\bin\Debug\netstandard2.0\Logic.pdb
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\Logic\obj\Debug\netstandard2.0\Logic.csprojAssemblyReference.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\Logic\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\Logic\obj\Debug\netstandard2.0\Logic.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\Logic\obj\Debug\netstandard2.0\Logic.pdb
