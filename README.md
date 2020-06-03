@@ -4,7 +4,7 @@ Jogo da forca simulando o jogo Roda a Roda do SBT a pedido do Professor Ricardo 
 
 
 ## Versão 1.0
-Jogo para três jogadores, implementado em **C#** com interface **CLI.
+Jogo para três jogadores, implementado em **C#** com interface **CLI**.
 
 Para rodar o jogo usando o Visual Studio, baixe o código, abra o arquivo "ForcaMiddleware.sln", selecione o projeto "ForcaMonoprocesso" como projeto de startup e clique em iniciar.
 
