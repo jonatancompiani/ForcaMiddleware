@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lfbcClVPDGemLHlpSH/34i60+DILBGdIDW0CHu+14nHD6WcOEGXiuowNNt63pVRHyQosjzxb2/iVVHsjeZRsww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonat\\source\\repos\\ForcaMiddleware\\ForcaMiddleware\\ClientSocket\\SocketClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonat\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

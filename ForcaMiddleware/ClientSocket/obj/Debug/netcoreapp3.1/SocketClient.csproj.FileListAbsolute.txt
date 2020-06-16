@@ -1,0 +1,15 @@
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\bin\Debug\netcoreapp3.1\SocketClient.exe
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\bin\Debug\netcoreapp3.1\SocketClient.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\bin\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\obj\Debug\netcoreapp3.1\SocketClient.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\obj\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\obj\Debug\netcoreapp3.1\SocketClient.csprojAssemblyReference.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\ClientSocket\obj\Debug\netcoreapp3.1\SocketClient.csproj.CopyComplete

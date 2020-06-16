@@ -15,5 +15,6 @@ namespace Logic
 
         public string name { get; set;  }
         public int score { get; set; }
+        public int prize { get; set; }
     }
 }

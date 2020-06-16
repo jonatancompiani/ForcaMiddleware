@@ -1,0 +1,17 @@
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csprojAssemblyReference.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfo.cs
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.exe
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.deps.json
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.json
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.dev.json
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.pdb
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.pdb
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.genruntimeconfig.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csproj.CopyComplete
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csproj.CoreCompileInputs.cache

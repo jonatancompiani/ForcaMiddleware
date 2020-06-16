@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForcaMonoProcesso", "ForcaMonoProcesso\ForcaMonoProcesso.csproj", "{D78F8225-E94D-4905-A74E-0CB01FB2D31C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForcaMonoProcesso", "ForcaMonoProcesso\ForcaMonoProcesso.csproj", "{D78F8225-E94D-4905-A74E-0CB01FB2D31C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{6AD70C1D-1B13-4BDB-A395-C9400FDFAFA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic", "Logic\Logic.csproj", "{6AD70C1D-1B13-4BDB-A395-C9400FDFAFA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Monoprocesso", "01.Monoprocesso", "{D7E480BE-DBF1-4AB6-BDE8-2F0EDE6D7495}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Socket", "02.Socket", "{BE93B030-4A89-4FA8-B260-8B90D1AD5AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServer", "SocketServer\SocketServer.csproj", "{A614C8AE-92C7-4EA8-BF0D-29C99081EB05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClient", "ClientSocket\SocketClient.csproj", "{BB8A6A89-E579-4756-9D9D-D8DC41F5DE16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +29,22 @@ Global
 		{6AD70C1D-1B13-4BDB-A395-C9400FDFAFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AD70C1D-1B13-4BDB-A395-C9400FDFAFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AD70C1D-1B13-4BDB-A395-C9400FDFAFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A614C8AE-92C7-4EA8-BF0D-29C99081EB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A614C8AE-92C7-4EA8-BF0D-29C99081EB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A614C8AE-92C7-4EA8-BF0D-29C99081EB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A614C8AE-92C7-4EA8-BF0D-29C99081EB05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8A6A89-E579-4756-9D9D-D8DC41F5DE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8A6A89-E579-4756-9D9D-D8DC41F5DE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8A6A89-E579-4756-9D9D-D8DC41F5DE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8A6A89-E579-4756-9D9D-D8DC41F5DE16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D78F8225-E94D-4905-A74E-0CB01FB2D31C} = {D7E480BE-DBF1-4AB6-BDE8-2F0EDE6D7495}
+		{A614C8AE-92C7-4EA8-BF0D-29C99081EB05} = {BE93B030-4A89-4FA8-B260-8B90D1AD5AE5}
+		{BB8A6A89-E579-4756-9D9D-D8DC41F5DE16} = {BE93B030-4A89-4FA8-B260-8B90D1AD5AE5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {12B1DB5F-B830-4180-A818-2EE58BBFF34A}

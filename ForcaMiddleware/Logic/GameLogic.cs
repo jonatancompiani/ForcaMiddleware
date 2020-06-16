@@ -19,8 +19,7 @@ namespace Logic
                 "LARANJA", 
                 "MELANCIA", 
                 "UVA", 
-                "BLUEBERRY", 
-                "ARAÇÁ"
+                "BLUEBERRY"
             };
 
         private static List<int> PRIZES = new List<int>()
@@ -50,7 +49,7 @@ namespace Logic
 
         #endregion
 
-
+        // 1.0
         public static void Startup(List<string> players)
         {
             SELECTED_WORDS = new List<string>();
@@ -77,6 +76,7 @@ namespace Logic
             SELECTED_WORDS.Add(WORDS_DATABASE[index].ToUpper());
         }
 
+        // 1.0
         public static int MakeGuess(string player, char letter)
         {
             if(GUESSES.Any(x=> char.ToUpper(x) == char.ToUpper(letter)))
@@ -128,6 +128,7 @@ namespace Logic
             return revealedWors;
         }
 
+        // 1.0
         public static int GetPrize()
         {
             var rnd = new Random();
@@ -135,6 +136,7 @@ namespace Logic
             NextGuessMultiplier = PRIZES[index];
             return NextGuessMultiplier;
         }
+
 
         public static List<Tuple<string, int>> GetScores()
         {
@@ -146,5 +148,92 @@ namespace Logic
 
             return tuple;
         }
+
+
+
+        #region 2.0
+
+        // 2.0
+        public static void Startup()
+        {
+            SELECTED_WORDS = new List<string>();
+            GUESSES = new List<char>();
+
+            // Get random words
+
+            var rnd = new Random();
+            int index = rnd.Next(WORDS_DATABASE.Count);
+            SELECTED_WORDS.Add(WORDS_DATABASE[index].ToUpper());
+
+            rnd = new Random();
+            index = rnd.Next(WORDS_DATABASE.Count);
+            SELECTED_WORDS.Add(WORDS_DATABASE[index].ToUpper());
+
+            rnd = new Random();
+            index = rnd.Next(WORDS_DATABASE.Count);
+            SELECTED_WORDS.Add(WORDS_DATABASE[index].ToUpper());
+        }
+
+        // 2.0
+        public static void AddPlayer(string player)
+        {
+            PlayersAndScore.Add(new Player(player));
+        }
+
+        // 2.0
+        public static int GetPrize(string player)
+        {
+            var rnd = new Random();
+            var index = rnd.Next(PRIZES.Count);
+            Player playerData = PlayersAndScore.FirstOrDefault(x=> x.name.Equals(player));
+            if (playerData != null)
+            {
+                playerData.prize = PRIZES[index];
+                return playerData.prize;
+            }
+            else
+            {
+                return 0;
+            }
+        }
+
+        // 2.0
+        public static int MakeGuessForPlayer(string player, char letter)
+        {
+            if (GUESSES.Any(x => char.ToUpper(x) == char.ToUpper(letter)))
+            {
+                // Letter already revealed, try again
+                return -1;
+            }
+            else
+            {
+                GUESSES.Add(char.ToUpper(letter));
+            }
+
+            // How many letters matching?
+            var correctlyGuessedLetters = SELECTED_WORDS.Sum(x => x.Count(y => y == char.ToUpper(letter)));
+
+            // get the current player
+            var currentPlayer = PlayersAndScore.First(x => x.name.Equals(player));
+
+            // if it was an error, reduce the prize from the score
+            if (correctlyGuessedLetters == 0)
+            {
+                currentPlayer.score -=  currentPlayer.prize;
+            }
+            else
+            {
+                // set the score
+                currentPlayer.score += correctlyGuessedLetters * currentPlayer.prize;
+            }
+
+            // reset the prize multiplier
+            currentPlayer.prize = 0;
+
+            return correctlyGuessedLetters;
+        }
+
+        #endregion
+
     }
 }
