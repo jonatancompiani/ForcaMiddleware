@@ -30,4 +30,20 @@ Cada palpite irá valer uma pontuação específica, para cada letra certa, o va
 Em breve
 
 ## Versão 4.0 - AMQP
-Em breve
+Jogo para N jogadores simultâneos, implementado em **C#** com interface **WPF** (Windows Presentation Fondation) com comunicação intermediada pelo **RabbitMQ**, servidor implementado em **C#**.
+
+**Pré Requisito**
+RabbitMQ instalado e redando no localhost. (download em https://www.rabbitmq.com/download.html)
+
+**Iniciando o Servidor**
+Para rodar o jogo usando o Visual Studio, baixe o código, abra o arquivo "ForcaMiddleware.sln", selecione o projeto "QueueServer" como projeto de startup e clique em iniciar.
+
+*Para rodar diretamente execute o arquivo "\ForcaMiddleware\QueueServer\bin\Debug\netcoreapp3.1\QueueServer.exe"
+
+**Iniciando Clientes**
+Para cada cliente a ser iniciado, clique com o botão direito no projeto "VisualQueueClient", no menu que aparece selecione Debug > Start a New Instance.
+
+*Para rodar diretamente execute o arquivo "\ForcaMiddleware\VisualQueueClient\bin\Debug\netcoreapp3.1\VisualQueueClient.exe"
+
+**Pontuação**
+Cada palpite irá valer uma pontuação específica, para cada letra certa, o valor irá somar ao placar do jogador. Caso a letra não exista nas palavras, a pontuação sorteada será reduzida do placar. 
