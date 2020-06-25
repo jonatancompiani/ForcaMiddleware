@@ -1,0 +1,16 @@
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\bin\Debug\netcoreapp3.1\QueueClient.exe
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\obj\Debug\netcoreapp3.1\QueueClient.csprojAssemblyReference.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\obj\Debug\netcoreapp3.1\QueueClient.AssemblyInfoInputs.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\obj\Debug\netcoreapp3.1\QueueClient.AssemblyInfo.cs
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\bin\Debug\netcoreapp3.1\QueueClient.deps.json
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\bin\Debug\netcoreapp3.1\QueueClient.runtimeconfig.json
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\bin\Debug\netcoreapp3.1\QueueClient.runtimeconfig.dev.json
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\bin\Debug\netcoreapp3.1\QueueClient.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\bin\Debug\netcoreapp3.1\QueueClient.pdb
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\obj\Debug\netcoreapp3.1\QueueClient.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\obj\Debug\netcoreapp3.1\QueueClient.csproj.CopyComplete
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\obj\Debug\netcoreapp3.1\QueueClient.dll
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\obj\Debug\netcoreapp3.1\QueueClient.pdb
+C:\Users\Jonat\source\repos\ForcaMiddleware\ForcaMiddleware\QueueCLient\obj\Debug\netcoreapp3.1\QueueClient.genruntimeconfig.cache

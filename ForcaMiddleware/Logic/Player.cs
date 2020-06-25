@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Logic
 {
-    class Player
+    public class Player
     {
         public Player(string name)
         {

@@ -149,6 +149,7 @@ namespace Logic
             return tuple;
         }
 
+   
 
 
         #region 2.0
@@ -177,7 +178,7 @@ namespace Logic
         // 2.0
         public static void AddPlayer(string player)
         {
-            PlayersAndScore.Add(new Player(player));
+            PlayersAndScore.Add(new Player(player) { prize = GameLogic.GetPrize() });
         }
 
         // 2.0
@@ -235,5 +236,18 @@ namespace Logic
 
         #endregion
 
+
+        #region 3.0
+
+        public static List<Player> GetPlayerScores()
+        {
+            return PlayersAndScore;
+        }
+        public static List<char> GetInvalidLetters()
+        {
+            return GameLogic.GUESSES;
+        }
+
+        #endregion
     }
 }
