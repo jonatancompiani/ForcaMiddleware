@@ -2,6 +2,9 @@
 
 Jogo da forca simulando o jogo Roda a Roda do SBT a pedido do Professor Ricardo Inacio Alvares e Silva, para a disciplina de Tópicos Avançados em Computação, do curso de Ciência da Computação da Unifil Londrina.
 
+_**OBS:** Todas as aplicações aqui descritas estão funcionando perfeitamente na versão atual do código, não sendo necessário voltar ao commit marcado pela tag._
+
+
 
 ## Versão 1.0 - Monoprocesso
 Jogo para três jogadores, implementado em **C#** com interface **CLI**.
